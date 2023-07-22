@@ -1,4 +1,5 @@
 ![alt text](/Banner.png)
+[![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannysanz715)](https://github.com/mannysanz715/github-readme-stats)
 
 
 <!--
