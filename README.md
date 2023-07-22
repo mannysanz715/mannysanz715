@@ -1,7 +1,7 @@
 ![alt text](/Banner.png)
 ![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannysanz715&show_icons=true&theme=one_dark_pro)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **mannysanz715/mannysanz715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
