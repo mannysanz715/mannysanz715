@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" src="/Banner.png">
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mannysanz715&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
-  <a href="#"><img align="center" src='https://github-readme-stats.vercel.app/api?username=mannysanz715&theme=dark&show_icons=true' /></a> 
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mannysanz715&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=one_dark_pro" />  </a>
+  <a href="#"><img align="center" src='https://github-readme-stats.vercel.app/api?username=mannysanz715&theme=one_dark_prok&show_icons=true' /></a> 
   <hr>
   <h2>About me:</h2>
   <h3>I’m a software engineer based in Los Angeles, California (Willing to Re-Locate to Anywhere), working with small local businesses get up and running with their landing page or tools to help them succeed. I love working on projects in groups where everyone is learning new things from each other.  </h3>
