@@ -1,5 +1,6 @@
 ![alt text](/Banner.png)
 ![Manny's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannysanz715&show_icons=true&theme=one_dark_pro)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 <!--
