@@ -1,4 +1,4 @@
-![alt text](mannysanz715/Banner.png)
+![alt text](/Banner.png)
 
 
 <!--
