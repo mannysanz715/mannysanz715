@@ -5,7 +5,7 @@
   <a href="#"> <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mannysanz715&layout=compact&theme=city_lights' /></a>
   <hr>
   <h2>About me:</h2>
-  <h3>I’m a software engineer based in Los Angeles, California (Willing to Re-Locate to Anywhere), working with small local businesses get up and running with their landing page or tools to help them succeed. I love working on projects in groups where everyone is learning new things from each other.  </h3>
+  <h3>I’m a software engineer based in Los Angeles, California (Open to Re-Locate), working with small local businesses get up and running with their landing page or tools to help them succeed. I love working on projects in groups where everyone is learning new things from each other.  </h3>
   <hr>
   <div>
     <h3>Reach out:</h3>
